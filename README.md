@@ -2,7 +2,14 @@
 
 I'm a Front-End Engineer and UI/UX Designer passionate about technology and art :)
 
-😄 Front-End Engineer at OSF Digital 
+<p align="left">
+  <a href="https://github.com/kaioespindola">
+    <img src="https://komarev.com/ghpvc/?username=kaioespindola" alt="page views" />
+  </a>
+  <a href="https://github.com/MacroPower?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
+  </a>
+</p>
 
 <samp>
   <a href="https://behance.net/kaio_espindola">behance</a> .
