@@ -14,7 +14,7 @@ I'm a Front-End Engineer and UI/UX Designer passionate about technology and art 
 <br/>
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaioespindola&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaioespindola&layout=compact&theme=buefy&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaioespindola&theme=buefy&hide_border=true" />
 
 <!--
 **kaioespindola/kaioespindola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
