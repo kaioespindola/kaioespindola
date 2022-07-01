@@ -1,4 +1,4 @@
-<img src="images/hehe.gif" height="270px" width="270px" align="right">
+<img src="images/hehe.gif" height="300px" width="300px" align="right">
 
 <p align="left">## Hi there 👋</p>
 
@@ -13,8 +13,6 @@
     <a href="https://www.linkedin.com/in/kaio-almeida-espindola/">linkedin</a>
   </samp>
 </p>
-
-<br/>
 
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaioespindola&layout=compact&theme=buefy&hide_border=true" />
