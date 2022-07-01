@@ -1,16 +1,22 @@
-### Hi there 👋
+<img src="https://c.tenor.com/R8Ot9SBUktQAAAAd/dwight-schrute-the-office.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-I'm a Front-End Engineer and UI/UX Designer passionate about technology and art :)
+<p align="left">## Hi there 👋</p>
+
+<p align="left">I'm a Front-End Engineer and UI/UX Designer passionate about technology and art :)</p>
 
 
-<samp>
-  <a href="https://behance.net/kaio_espindola">behance</a> .
-  <a href="https://twitter.com/blackaio">twitter</a> .
-  <a href="https://youtube.com/blackaio">youtube</a> .
-  <a href="https://www.linkedin.com/in/kaio-almeida-espindola/">linkedin</a>
-</samp>
+<p align="left">
+  <samp>
+    <a href="https://behance.net/kaio_espindola">behance</a> .
+    <a href="https://twitter.com/blackaio">twitter</a> .
+    <a href="https://youtube.com/blackaio">youtube</a> .
+    <a href="https://www.linkedin.com/in/kaio-almeida-espindola/">linkedin</a>
+  </samp>
+</p>
 
 <br/>
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaioespindola&theme=buefy&hide_border=true" />
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaioespindola&theme=buefy&hide_border=true" />
+</p>
