@@ -1,9 +1,8 @@
-<img src="images/hehe.gif" height="300px" width="300px" align="right">
+<img src="images/hehe.gif" height="250px" width="250px" align="right">
 
 <p align="left">## Hi there 👋</p>
 
-<p align="left">I'm a Front-End Engineer and UI/UX Designer</p>
-<p align="left">passionate about technology and art :)</p>
+<p align="left">I'm a Front-End Engineer and UI/UX Designer passionate about technology and art :)</p>
 
 
 <p align="left">
@@ -15,7 +14,6 @@
   </samp>
 </p>
 
-<br/>
 <br/>
 
 <p align="left">
