@@ -1,4 +1,4 @@
-<img src="images/hehe.gif" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
+<img src="images/hehe.gif" width="50px" align="right">
 
 <p align="left">## Hi there 👋</p>
 
