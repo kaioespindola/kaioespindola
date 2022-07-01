@@ -1,4 +1,4 @@
-<img src="https://c.tenor.com/R8Ot9SBUktQAAAAd/dwight-schrute-the-office.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="images/hehe.gif" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 
 <p align="left">## Hi there 👋</p>
 
