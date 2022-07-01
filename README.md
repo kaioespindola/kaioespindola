@@ -1,4 +1,4 @@
-<img src="images/hehe.gif" width="50px" align="right">
+<img src="images/hehe.gif" height="300px" width="300px" align="right">
 
 <p align="left">## Hi there 👋</p>
 
