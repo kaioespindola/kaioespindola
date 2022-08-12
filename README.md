@@ -2,7 +2,7 @@
 
 <p align="left">## Hi there 👋</p>
 
-<p align="left">I'm a Front-End Engineer and UI/UX Designer passionate about technology and art :)</p>
+<p align="left">I'm a Front-End Engineer and UI/UX passionate about technology and art :)</p>
 
 
 <p align="left">
